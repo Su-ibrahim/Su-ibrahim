@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Su-ibrahim
+- 👋 Hi, I’m Sumaya
 - 👀 I’m interested in ... Data engineering
 - 🌱 I’m currently learning ...Data engineering
 - 💞️ I’m looking to collaborate on ... the bootcamp
