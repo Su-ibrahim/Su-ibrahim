@@ -7,7 +7,6 @@
   
 🔍 Always eager to learn and solve complex problems
 
-📫 Reach out to me if you have any questions or would like to collaborate on a project!
 
 
 <!---
